@@ -13,7 +13,7 @@ fg.src="images/fg.png";
 pipeNorth.src="images/pipeNorth.png";
 pipeSouth.src="images/pipeSouth.png";
 
-var gap=85;
+var gap=86;
 var constant;
 var bx=10;
 var by=150;
